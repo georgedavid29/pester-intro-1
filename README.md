@@ -18,4 +18,4 @@ Pester is a testing framework for PowerShell ideal for validating infrastructure
 Run all tests in the repo:
  Invoke-Pester -Output Detailed -Path .
 
-<img width="787" height="682" alt="image" src="https://github.com/user-attachments/assets/dd5580ea-1ca6-444a-b84c-8ce20fb6e742" />
+<img width="709" height="683" alt="image" src="https://github.com/user-attachments/assets/2f31b652-123e-483f-8bdd-7638b93f8a1d" />
